@@ -276,10 +276,11 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ## 👨‍💻 Author
 
-**Ares Coding**
+**Au Amores**
 
-- GitHub: [@ares-coding](https://github.com/ares-coding)
-- Portfolio: [ares-coding.dev](#)
+- GitHub:  https://github.com/cybersec-dev-au
+- Portfolio:
+https://au-dev-cs.vercel.app/
 
 ---
 
