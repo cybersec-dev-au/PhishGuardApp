@@ -1,4 +1,4 @@
-# 🛡️ PhishGuard App
+# PhishGuard App
 
 <div align="center">
 
@@ -7,46 +7,46 @@
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=for-the-badge)](LICENSE)
 
-### 🔍 Real-Time Phishing Detection at Your Fingertips
+### Real-Time Phishing Detection at Your Fingertips
 
 *An intelligent Android application that leverages NLP and Machine Learning to detect phishing attempts in SMS messages and protect users from cyber threats.*
 
-[Features](#-features) • [Demo](#-demo) • [Installation](#-installation) • [How It Works](#-how-it-works) • [Tech Stack](#-tech-stack) • [Contributing](#-contributing)
+[Features](#features) • [Demo](#demo) • [Installation](#installation) • [How It Works](#how-it-works) • [Tech Stack](#tech-stack) • [Contributing](#contributing)
 
 </div>
 
 ---
 
-## 📱 Overview
+## Overview
 
 **PhishGuard** is a cutting-edge Android security application designed to protect users from phishing attacks in real-time. By analyzing SMS messages using advanced Natural Language Processing (NLP) and Machine Learning algorithms, PhishGuard identifies malicious content and alerts users before they fall victim to scams.
 
-### 🎯 Key Highlights
+### Key Highlights
 
-- ✅ **Real-time SMS scanning** with instant threat detection
-- 🤖 **AI-powered analysis** using NLP and TensorFlow/Keras models
-- 📊 **Confidence scoring** for risk assessment
-- 🔒 **Privacy-focused** - all processing happens locally
-- 📱 **Native Android UI** with Material Design
-- 🚀 **Flask REST API** backend for ML model serving
+- Real-time SMS scanning with instant threat detection
+- AI-powered analysis using NLP and TensorFlow/Keras models
+- Confidence scoring for risk assessment
+- Privacy-focused — all processing happens locally
+- Native Android UI with Material Design
+- Flask REST API backend for ML model serving
 
 ---
 
-## ✨ Features
+## Features
 
-### 🔐 Security Features
+### Security Features
 - **Intelligent Message Analysis**: Uses TF-IDF vectorization and neural networks to detect phishing patterns
 - **Real-time Scanning**: Automatic scanning of incoming SMS messages
 - **Risk Assessment**: Provides confidence scores for detected threats
 - **Phishing Database**: Maintains history of scanned messages with threat levels
 
-### 📱 User Experience
+### User Experience
 - **Clean Interface**: Intuitive Material Design UI
 - **Instant Alerts**: Immediate notifications for suspicious messages
 - **Message History**: View scan history and threat analysis
 - **User Feedback**: Option to report false positives/negatives
 
-### 🧠 ML Capabilities
+### ML Capabilities
 - **NLP Processing**: Advanced text feature extraction
 - **Pattern Recognition**: Identifies common phishing tactics
 - **Continuous Learning**: Model improvements through user feedback
@@ -54,7 +54,7 @@
 
 ---
 
-## 🎬 Demo
+## Demo
 
 <div align="center">
 
@@ -68,7 +68,7 @@
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ### Prerequisites
 
@@ -105,11 +105,11 @@ cd PhishGuardApp
 
 4. **Run the App**
    - Connect your Android device or start an emulator
-   - Click **Run** (▶️) or press `Shift + F10`
+   - Click **Run** or press `Shift + F10`
 
 ---
 
-## 🔧 How It Works
+## How It Works
 
 ### Architecture Overview
 
@@ -149,7 +149,7 @@ cd PhishGuardApp
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend (Android)
 
@@ -172,7 +172,7 @@ cd PhishGuardApp
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 PhishGuardApp/
@@ -208,7 +208,7 @@ PhishGuardApp/
 
 ---
 
-## 🔐 Permissions
+## Permissions
 
 The app requires the following permissions:
 
@@ -224,7 +224,7 @@ The app requires the following permissions:
 
 ---
 
-## 🧪 Testing
+## Testing
 
 ### Run Unit Tests
 
@@ -240,16 +240,16 @@ The app requires the following permissions:
 
 ---
 
-## 🔗 Related Repositories
+## Related Repositories
 
 - **Backend API**: [PhishGuard ML API with Database](https://github.com/ares-coding/phishguard-ml-api-with-database)
 - **ML Model Training**: [Phishing Detection Model](https://github.com/ares-coding/phishing-detection-ml)
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome. Please feel free to submit a Pull Request.
 
 ### How to Contribute
 
@@ -268,23 +268,22 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Au Amores**
 
-- GitHub:  https://github.com/cybersec-dev-au
-- Portfolio:
-https://au-dev-cs.vercel.app/
+- GitHub: https://github.com/cybersec-dev-au
+- Portfolio: https://au-dev-cs.vercel.app/
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - TensorFlow and Keras teams for the ML framework
 - Android development community
@@ -293,7 +292,7 @@ https://au-dev-cs.vercel.app/
 
 ---
 
-## 📞 Support
+## Support
 
 If you encounter any issues or have questions:
 
@@ -303,23 +302,9 @@ If you encounter any issues or have questions:
 
 ---
 
-## 🌟 Star History
-
-If you find this project useful, please consider giving it a ⭐!
-
----
-
 <div align="center">
 
-### 🛡️ Stay Safe from Phishing! 🛡️
-
-Made with Passion and a lot of Coffee by [Ares Coding](https://github.com/ares-coding)
-
-Add Apache 2.0 license
-
-- Add LICENSE file with Apache License 2.0
-- Project is now open source under Apache 2.0 terms
-- Allows commercial use, modification, and distribution
+Made with passion by [Ares Coding](https://github.com/ares-coding)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ares-coding.PhishGuardApp)
 ![Last Commit](https://img.shields.io/github/last-commit/ares-coding/PhishGuardApp?style=flat-square)
